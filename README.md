@@ -1,4 +1,4 @@
-# Saima's Newsportal Website-1
+# Saima's New sportal Website-1
  "Daily News BD" is a newsportal website
 Download the WordPress file.
 Open your server.
